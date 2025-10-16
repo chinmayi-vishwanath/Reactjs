@@ -1,2 +1,2 @@
-This folder contains about:
+This folder contains about Reacthook:
 useMemo
