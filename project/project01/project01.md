@@ -4,7 +4,7 @@ This is a simple React project demonstrating how to combine **useContext**, **us
 
 ---
 
-## 🚀 Features
+##  Features
 - Global state sharing using **React Context API**
 - Local state updates using **useState**
 - Performance optimization with **useMemo**
@@ -12,14 +12,14 @@ This is a simple React project demonstrating how to combine **useContext**, **us
 
 ---
 
-## 🧠 Concepts Covered
-### 🟦 useState
+##  Concepts Covered
+###  useState
 Used for managing local component state.
 
-### 🟨 useContext
+###  useContext
 Used to share and consume global state without passing props manually through each component level.
 
-### 🟩 useMemo
+###  useMemo
 Used to **memoize** values and computations to prevent unnecessary re-renders.
 
 ---
